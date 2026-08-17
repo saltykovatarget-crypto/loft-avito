@@ -12,6 +12,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Полка должна держать книги, а не только вазу с сухоцветом. У этой каркас сварен из стали.
@@ -74,6 +80,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. У этой каркас сварен из стали.
@@ -136,6 +148,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Здесь стальной каркас.
@@ -198,6 +216,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. У этой каркас сварен из стали.
@@ -260,6 +284,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Тут металл, а не пластик.
@@ -322,6 +352,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. У этой каркас сварен из стали.
@@ -384,6 +420,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. Тут металл, а не пластик.
@@ -446,6 +488,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. У этой каркас сварен из стали.
@@ -508,6 +556,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Если полка шатается при касании — это не полка, а украшение стены. У этой каркас сварен из стали.
@@ -570,6 +624,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. Тут металл, а не пластик.
@@ -632,6 +692,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. У этой каркас сварен из стали.
@@ -694,6 +760,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Полка должна держать книги, а не только вазу с сухоцветом. Тут металл, а не пластик.
@@ -756,6 +828,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. Здесь стальной каркас.
@@ -818,6 +896,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. Тут металл, а не пластик.
@@ -880,6 +964,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Тут металл, а не пластик.
@@ -942,6 +1032,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. Здесь стальной каркас.
@@ -1004,6 +1100,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Здесь стальной каркас.
@@ -1066,6 +1168,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Если полка шатается при касании — это не полка, а украшение стены. У этой каркас сварен из стали.
@@ -1128,6 +1236,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. Здесь стальной каркас.
@@ -1190,6 +1304,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. У этой каркас сварен из стали.
@@ -1252,6 +1372,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Здесь стальной каркас.
@@ -1314,6 +1440,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. У этой каркас сварен из стали.
@@ -1376,6 +1508,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. Тут металл, а не пластик.
@@ -1438,6 +1576,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. Тут металл, а не пластик.
@@ -1500,6 +1644,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. Тут металл, а не пластик.
@@ -1562,6 +1712,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Полка должна держать книги, а не только вазу с сухоцветом. Здесь стальной каркас.
@@ -1624,6 +1780,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. У этой каркас сварен из стали.
@@ -1686,6 +1848,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Если полка шатается при касании — это не полка, а украшение стены. Здесь стальной каркас.
@@ -1748,6 +1916,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Если полка шатается при касании — это не полка, а украшение стены. Тут металл, а не пластик.
@@ -1810,6 +1984,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. Здесь стальной каркас.
@@ -1872,6 +2052,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. Тут металл, а не пластик.
@@ -1934,6 +2120,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. Здесь стальной каркас.
@@ -1996,6 +2188,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. У этой каркас сварен из стали.
@@ -2058,6 +2256,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Полка должна держать книги, а не только вазу с сухоцветом. У этой каркас сварен из стали.
@@ -2120,6 +2324,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. У этой каркас сварен из стали.
@@ -2182,6 +2392,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Здесь стальной каркас.
@@ -2244,6 +2460,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Если полка шатается при касании — это не полка, а украшение стены. Здесь стальной каркас.
@@ -2306,6 +2528,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Полка из ДСП живёт до первой стопки книг. Тут металл, а не пластик.
@@ -2368,6 +2596,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. Здесь стальной каркас.
@@ -2430,6 +2664,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. У этой каркас сварен из стали.
@@ -2492,6 +2732,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. Тут металл, а не пластик.
@@ -2554,6 +2800,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Полка должна держать книги, а не только вазу с сухоцветом. Тут металл, а не пластик.
@@ -2616,6 +2868,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. У этой каркас сварен из стали.
@@ -2678,6 +2936,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Тут металл, а не пластик.
@@ -2740,6 +3004,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка настенная металлическая, лофт</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. Тут металл, а не пластик.
@@ -2802,6 +3072,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Белый</Color>
     <Title>Полка навесная лофт, 45х32х16 см</Title>
     <Description><![CDATA[Обычная полка прогибается там, где нужна опора. У этой каркас сварен из стали.
@@ -2864,6 +3140,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка настенная лофт, металл и ЛДСП</Title>
     <Description><![CDATA[Если полка шатается при касании — это не полка, а украшение стены. У этой каркас сварен из стали.
@@ -2926,6 +3208,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Серый</Color>
     <Title>Полка навесная металлическая для книг</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Здесь стальной каркас.
@@ -2988,6 +3276,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка настенная деревянная, металл и дерево</Title>
     <Description><![CDATA[Тонкие кронштейны гнутся под книгами. Здесь стальной каркас.
@@ -3050,6 +3344,12 @@
     <Width>45</Width>
     <Height>32</Height>
     <Depth>16</Depth>
+    <Delivery>ПВЗ</Delivery>
+    <DeliverySubsidy>300</DeliverySubsidy>
+    <WeightForDelivery>2.4</WeightForDelivery>
+    <LengthForDelivery>48</LengthForDelivery>
+    <WidthForDelivery>35</WidthForDelivery>
+    <HeightForDelivery>19</HeightForDelivery>
     <Color>Коричневый</Color>
     <Title>Полка навесная деревянная, до 20 кг</Title>
     <Description><![CDATA[Дешёвая полка провисает через месяц. Тут металл, а не пластик.
